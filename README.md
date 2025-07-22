@@ -9,4 +9,4 @@ day day up!
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=coder-xuyong&show_icons=true&hide_border=ture&theme=tokyonight)
 
 ##### PageView
-![:name](https://count.getloli.com/get/@:coder-xuyong?theme=booru-mjg)
+![:name](https://count.getloli.com/get/@:coder-xuyong?theme=booru-lewd)
