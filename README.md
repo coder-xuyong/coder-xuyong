@@ -1,6 +1,7 @@
-Hello!这里是coder-xuyong，一个业余的开发爱好者。
+Hello!这里是coder-xuyong，一个想进步的coder。
 
-别打击了别打击了，会好好学习的啦。
+good good study!
+day day up!
 
 ##### Data
 
