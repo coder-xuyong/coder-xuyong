@@ -1,113 +1,138 @@
 {
-  "titleNameMap": {
-    "educationList": "教育背景",
-    "workExpList": "工作经历",
-    "projectList": "项目经验",
-    "skillList": "个人技能",
-    "awardList": "更多信息",
-    "workList": "个人作品",
-    "aboutme": "个人评价"
-  },
-  "avatar": {
-    "src": "https://avatars.githubusercontent.com/u/55010058?v=4",
-    "hidden": false
-  },
-  "profile": {
-    "name": "徐勇",
-    "email": "1299461580@qq.com",
-    "mobile": "15328349431",
-    "github": "",
-    "zhihu": "",
-    "workExpYear": ""
-  },
-  "educationList": [
-    {
-      "edu_time": [
-        "2018.09.01",
-        "2022.06.30"
-      ],
-      "school": "重庆师范大学",
-      "major": "计算机科学与技术",
-      "academic_degree": "本科"
-    }
-  ],
-  "awardList": [
-    {
-      "award_info": "英语 CET6",
-      "award_time": "2015"
-    },
-    {
-      "award_info": "蚂蚁近卫军 卓越个人奖",
-      "award_time": "2018.09"
-    },
-    {
-      "award_info": "前端练习生 可视化讲师",
-      "award_time": "2020.10"
-    },
-    {
-      "award_info": "前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”",
-      "award_time": "2021.07"
-    }
-  ],
-  "workExpList": [
-    {
-      "company_name": "蚂蚁集团",
-      "department_name": "体验技术部",
-      "work_time": [
-        "2018.06",
-        null
-      ],
-      "work_desc": "1. 担任蚂蚁高管决策和管理协同产品 “数据作战室” 的前端负责人\r\n2. 负责蚂蚁敏捷 BI 产品 “DeepInsight” 的可视分析模块产品能力建设\n3. 数据可视化 AntV 团队核心成员，负责 G2、G2Plot 开源技术的建设"
-    },
-    {
-      "company_name": "蚂蚁金服",
-      "department_name": "大数据部",
-      "work_time": [
-        "2017.06",
-        "2017.12"
-      ],
-      "work_desc": "前端实习生。使用 React 参与开发多类数据产品的研发工作，同时也参与大型 BI 产品的重构工作，有良好的编码习惯。"
-    },
-    {
-      "company_name": "数沃信息科技有限公司",
-      "department_name": "",
-      "work_time": [
-        "2017.03",
-        "2017.05"
-      ],
-      "work_desc": "前端实习生。使用 Vue 来实现平台功能和逻辑，再用 ECharts 来对数据挖掘分析后的可视化结果进行展示"
-    }
-  ],
-  "skillList": [],
-  "projectList": [
-    {
-      "project_name": "数据作战室",
-      "project_role": "前端负责人",
-      "project_time": "2019.04 - 2020.06",
-      "project_desc": "面向总裁和高管以及决策 BI 的数字化经营决策和管理协同的数据产品。提供一站式的数据化经营决策和管理协同功能，让高管高效获取指标进展以及决策洞察，并提升管理效率。",
-      "project_content": "1. 独立负责产品从 0 到 1 的开发、产品功能迭代（在项目中具有推动项目进度的经验） 2. 产品体验精雕细琢的打磨 3. 建立稳定性保障机制。目前仍在迭代中，帮助提升高管业务决策效率"
-    },
-    {
-      "project_name": "DeepInsight",
-      "project_role": "可视分析负责人",
-      "project_time": "2018.07 - 2019.04 / 2020.07 - 至今",
-      "project_desc": "DeepInsight 是蚂蚁集团自主研发的自助式 BI 数据洞察分析平台，主要功能包括可视化看板搭建、智能分析、数据产品建站等。看板功能类似于火山引擎、PowerBI等产品。） ",
-      "project_content": "在该项目中主要负责可视化建设以及工程治理\n1. 主导开放能力建设，拉通产品、设计建设和扩展 40+ 可视化图形，提升丰富度\n2. 产品体验优化，尤其是对 ECharts 的体验顽疾进行攻克\n3. 主导可视化能力建设：业务标准化图表库建设、促进数据分析能力增强等可视化一体化建设。同时也是 AntV G2Plot 负责人，负责将可视化技术和业务相结合。"
-    },
-    {
-      "project_name": "G2、G2Plot",
-      "project_role": "核心开发者",
-      "project_time": "2019 - 至今",
-      "project_desc": "G2 是基于图形语法理论的可视化渲染引擎，G2Plot 是在 G2 基础上封装的开箱即用的统计可视化图表库",
-      "project_content": "AntV 可视化建设，赋能整个蚂蚁和阿里集团统计可视化分析相关业务。负责 AntV G2、G2Plot、ThemeSet 主题构建器等开源项目的研发工作，同时服务蚂蚁内部所有使用 G2 栈的用户，提供可视化解决方案和定制可视化的协助。"
-    }
-  ],
-  "workList": [],
-  "aboutme": {
-    "aboutme_desc": "🌱 多年大型项目经历，专注在可视分析领域\n1. 项目管理: 具有独立跟进和推动项目进度经验，把控研发测试交付进展。2.开发经验: 除java web、fx方向的开发经验丰富外，也有python（django）、.net的开发经验，能完成定制诉求"
-  },
-  "theme": {
-    "color": "#2f5785",
-    "tagColor": "#8bc34a"
-  }
+     "titleNameMap": {
+          "educationList": "教育背景",
+          "workExpList": "工作经历",
+          "projectList": "项目经验",
+          "skillList": "个人技能",
+          "awardList": "更多信息",
+          "workList": "个人作品",
+          "aboutme": "个人评价"
+     },
+     "avatar": {
+          "src": "https://avatars.githubusercontent.com/u/55010058?v=4",
+          "hidden": false
+     },
+     "profile": {
+          "name": "徐勇",
+          "email": "1299461580@qq.com",
+          "mobile": "15328349431",
+          "github": "",
+          "zhihu": "",
+          "workExpYear": "3年",
+          "workPlace": "",
+          "positionTitle": "Java开发工程师"
+     },
+     "educationList": [
+          {
+               "edu_time": [
+                    "2018.09.01",
+                    "2022.06.30"
+               ],
+               "school": "重庆师范大学",
+               "major": "计算机科学与技术",
+               "academic_degree": "本科"
+          }
+     ],
+     "awardList": [],
+     "workExpList": [
+          {
+               "company_name": "浙江新能源技术有限公司",
+               "department_name": "研发部",
+               "work_time": [
+                    "2022.12",
+                    ""
+               ],
+               "work_desc": "Java开发工程师。使用 SpringBoot、Java Fx、Servlet、JSP、Python等完成不同的工作。",
+               "dataIndex": 0
+          },
+          {
+               "company_name": "上海安硕信息技术有限公司",
+               "department_name": "研发部",
+               "work_time": [
+                    "2021.07",
+                    "2022.10"
+               ],
+               "work_desc": "后端实习生。使用 Spring 参与分布式产品的研发工作，有良好的编码习惯。",
+               "dataIndex": 1
+          }
+     ],
+     "skillList": [
+          {
+               "skill_desc": "熟练掌握 Java 核心基础知识、JUC 的使用、OOM 思想，熟悉 ThreadLocal 的原理；",
+               "dataIndex": 0
+          },
+          {
+               "skill_desc": "熟悉 JVM、JMM，对常用的垃圾回收算法、垃圾回收器有一定的了解，有线上CUP 飙高，OOM 的排查经验；",
+               "dataIndex": 1
+          },
+          {
+               "skill_desc": "熟练使用 MySql，对其索引、事务、锁、MVCC 有深入理解，有丰富的表设计经验和 sql 语句优化经验；",
+               "dataIndex": 2
+          },
+          {
+               "skill_desc": "熟练使用 Redis，对其原理有自我认知，熟知使用的场景；",
+               "dataIndex": 3
+          },
+          {
+               "skill_desc": "熟练使用 Spring 家族、Mybatis 框架，可以使用 SpringBoot 独立开发，对 Spring 核心源码有自我认知；",
+               "dataIndex": 4
+          },
+          {
+               "skill_desc": "熟知 RabbitMq 的使用场景以及需要注意的问题，例如消息丢失、重复消费、持久化等；",
+               "dataIndex": 5
+          },
+          {
+               "skill_desc": "熟知常用的设计模式，例如单例、模板、策略、工厂、适配器等均有线上使用经验；"
+          },
+          {
+               "skill_desc": "熟练使用 Git、SVN 版本控制工具；",
+               "dataIndex": 7
+          },
+          {
+               "skill_desc": "熟练使用 OkHttp、HuTool 等第三方工具植入项目；",
+               "dataIndex": 8
+          },
+          {
+               "skill_desc": "了解 ES、dockers、vue、Jenkins 等。",
+               "dataIndex": 9
+          }
+     ],
+     "projectList": [
+          {
+               "project_name": "数据作战室",
+               "project_role": "前端负责人",
+               "project_time": "2019.04 - 2020.06",
+               "project_desc": "面向总裁和高管以及决策 BI 的数字化经营决策和管理协同的数据产品。提供一站式的数据化经营决策和管理协同功能，让高管高效获取指标进展以及决策洞察，并提升管理效率。",
+               "project_content": "1. 独立负责产品从 0 到 1 的开发、产品功能迭代（在项目中具有推动项目进度的经验） 2. 产品体验精雕细琢的打磨 3. 建立稳定性保障机制。目前仍在迭代中，帮助提升高管业务决策效率"
+          },
+          {
+               "project_name": "DeepInsight",
+               "project_role": "可视分析负责人",
+               "project_time": "2018.07 - 2019.04 / 2020.07 - 至今",
+               "project_desc": "DeepInsight 是蚂蚁集团自主研发的自助式 BI 数据洞察分析平台，主要功能包括可视化看板搭建、智能分析、数据产品建站等。看板功能类似于火山引擎、PowerBI等产品。） ",
+               "project_content": "在该项目中主要负责可视化建设以及工程治理\n1. 主导开放能力建设，拉通产品、设计建设和扩展 40+ 可视化图形，提升丰富度\n2. 产品体验优化，尤其是对 ECharts 的体验顽疾进行攻克\n3. 主导可视化能力建设：业务标准化图表库建设、促进数据分析能力增强等可视化一体化建设。同时也是 AntV G2Plot 负责人，负责将可视化技术和业务相结合。"
+          },
+          {
+               "project_name": "G2、G2Plot",
+               "project_role": "核心开发者",
+               "project_time": "2019 - 至今",
+               "project_desc": "G2 是基于图形语法理论的可视化渲染引擎，G2Plot 是在 G2 基础上封装的开箱即用的统计可视化图表库",
+               "project_content": "AntV 可视化建设，赋能整个蚂蚁和阿里集团统计可视化分析相关业务。负责 AntV G2、G2Plot、ThemeSet 主题构建器等开源项目的研发工作，同时服务蚂蚁内部所有使用 G2 栈的用户，提供可视化解决方案和定制可视化的协助。"
+          }
+     ],
+     "workList": [
+          {
+               "work_name": "blog",
+               "work_desc": "自己长期维护，用于记录自己的学习笔记和遇到的问题",
+               "visit_link": "https://coder-xuyong.netlify.app/",
+               "dataIndex": 0
+          }
+     ],
+     "aboutme": {
+          "aboutme_desc": "🌱 多年大型项目经历，专注Java web领域\n1. 项目管理: 具有独立跟进和推动项目进度经验，把控研发测试交付进展。\n2.开发经验: 除java web、fx方向的开发经验丰富外，也有python（django）、.net的开发和维护经验，能完成定制诉求。\n3.兴趣爱好: 喜欢徒步、爬山、羽毛球等户外体力活动。"
+     },
+     "theme": {
+          "color": "#2f5785",
+          "tagColor": "#8bc34a"
+     }
 }
