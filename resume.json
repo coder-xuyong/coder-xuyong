@@ -39,10 +39,10 @@
                "company_name": "浙江新能源技术有限公司",
                "department_name": "研发部",
                "work_time": [
-                    "2022.12",
-                    ""
+                    "2022.12 ，至今",
+                    " 至今"
                ],
-               "work_desc": "Java开发工程师。使用 SpringBoot、Java Fx、Servlet、JSP、Python等完成不同的工作。",
+               "work_desc": "Java开发工程师。参与公司多个核心项目的日常开发和维护，协同多个部门合作，总共参与多达20多个项目的开发。其中核心的是风力发电监测系统的雷电流检测和光纤应力的开发、诊断监测报告初始化和导出word的功能迭代和整合、数据库SQL导出工具的迭代和minio功能版本的加入、OA办公管理系统的迭代和维护等。",
                "dataIndex": 0
           },
           {
@@ -99,31 +99,64 @@
      ],
      "projectList": [
           {
-               "project_name": "数据作战室",
-               "project_role": "前端负责人",
-               "project_time": "2019.04 - 2020.06",
-               "project_desc": "面向总裁和高管以及决策 BI 的数字化经营决策和管理协同的数据产品。提供一站式的数据化经营决策和管理协同功能，让高管高效获取指标进展以及决策洞察，并提升管理效率。",
-               "project_content": "1. 独立负责产品从 0 到 1 的开发、产品功能迭代（在项目中具有推动项目进度的经验） 2. 产品体验精雕细琢的打磨 3. 建立稳定性保障机制。目前仍在迭代中，帮助提升高管业务决策效率"
+               "project_name": "叶片总成",
+               "project_role": "后端负责人",
+               "project_time": "2023.04 - 至今",
+               "project_desc": "软件系统接入检测风力发电机的雷电流检测和叶片所承受的应力大小。提高对风机的故障检测和预判，提前维修。降低安全隐患和成本，让维护更加高效。",
+               "project_content": "独立负责产品从 0 到 1 的开发、产品功能迭代\n项目架构：SpringBoot+Mysql+Redis+Vue\n1. 负责产品开发文档的撰写 \n2. 产品体验精雕细琢的打磨 \n3. 建立稳定性保障机制。",
+               "dataIndex": 0
           },
           {
-               "project_name": "DeepInsight",
-               "project_role": "可视分析负责人",
-               "project_time": "2018.07 - 2019.04 / 2020.07 - 至今",
-               "project_desc": "DeepInsight 是蚂蚁集团自主研发的自助式 BI 数据洞察分析平台，主要功能包括可视化看板搭建、智能分析、数据产品建站等。看板功能类似于火山引擎、PowerBI等产品。） ",
-               "project_content": "在该项目中主要负责可视化建设以及工程治理\n1. 主导开放能力建设，拉通产品、设计建设和扩展 40+ 可视化图形，提升丰富度\n2. 产品体验优化，尤其是对 ECharts 的体验顽疾进行攻克\n3. 主导可视化能力建设：业务标准化图表库建设、促进数据分析能力增强等可视化一体化建设。同时也是 AntV G2Plot 负责人，负责将可视化技术和业务相结合。"
+               "project_name": "OA 办公管理系统",
+               "project_role": "主要负责人",
+               "project_time": "2024.04 - 至今",
+               "project_desc": "OA办公管理系统是用于公司内部的管理流程。包括请假、日报、考核、用印、物资领用等流程审批功能。 ",
+               "project_content": "在该项目中主要负责新需求的迭代和维护。\n项目架构：servlet + jsp\n1. 处理日常工作中，同事使用过程中发现的bug修复，如时间戳的国际化问题、字符串空格问题等。\n2. 产品体验优化，总经理可以批量通过请假流程和物资申请流程的审批。\n3. 加入新的考核流程，HRBP对不同部门的考核。",
+               "dataIndex": 1
           },
           {
-               "project_name": "G2、G2Plot",
+               "project_name": "诊断报告",
                "project_role": "核心开发者",
-               "project_time": "2019 - 至今",
-               "project_desc": "G2 是基于图形语法理论的可视化渲染引擎，G2Plot 是在 G2 基础上封装的开箱即用的统计可视化图表库",
-               "project_content": "AntV 可视化建设，赋能整个蚂蚁和阿里集团统计可视化分析相关业务。负责 AntV G2、G2Plot、ThemeSet 主题构建器等开源项目的研发工作，同时服务蚂蚁内部所有使用 G2 栈的用户，提供可视化解决方案和定制可视化的协助。"
+               "project_time": "2023.6 - 至今",
+               "project_desc": "诊断报告是根据不同的风电厂商，根据不同的规则，根据模板将一段时间内的配置和数据进行处理，生成一个更加完善的word模板。最后相关的工作人员继续在这个系统上加工，最后导出word文档。",
+               "project_content": "完成其中一个厂商的报告开发，和其分支的报告整合和迭代。\n1. 根据 docx4j，完成从0到1的中自庆安诊断报告标准版的开发和迭代。\n2.根据厂商不同的用户，使用之后，提出的优化需求进行迭代。",
+               "dataIndex": 2
+          },
+          {
+               "project_time": "2023.6 - 至今",
+               "project_name": "诊断报告",
+               "project_role": "核心开发者",
+               "project_desc": "诊断报告是根据不同的风电厂商，根据不同的规则，根据模板将一段时间内的配置和数据进行处理，生成一个更加完善的word模板。最后相关的工作人员继续在这个系统上加工，最后导出word文档。",
+               "project_content": "完成其中一个厂商的报告开发，和其分支的报告整合和迭代。\n1. 根据 docx4j，完成从0到1的中自庆安诊断报告标准版的开发和迭代。\n2.根据厂商不同的用户，使用之后，提出的优化需求进行迭代。"
+          },
+          {
+               "project_time": "2024.3 - 至今",
+               "project_name": "SQL导出工具",
+               "project_role": "核心开发者",
+               "project_desc": "根据公司的业务需求，需要将现场的数据和配置导回公司进行数据分析，同时需要提高这个过程的速度和兼容性。",
+               "project_content": "导出和导入配置数据库的配置数据和历史数据库的历史数据。\n1. 提高mysqldump的导出速度，gzip的压缩效率，优化导出sql的查询速度，提高总体效率。\n2. 兼容不同版本的系统的数据库差异。\n3. 兼容导入导出windows和linux的不同\n4. 使用minio替换mysqldump提升速度。",
+               "dataIndex": 4
+          },
+          {
+               "project_time": "2024.8 - 2025.3",
+               "project_name": "蒙达SIM",
+               "project_role": "核心开发者",
+               "project_desc": "根据监听系统数据是否报警，通过串口去改变modbus的状态，同时向客户发送报警状态。",
+               "project_content": "\n1. 独立从0到1的项目开发（具有推进项目进度的作用）\n2. 使用Java FX 打包程exe文件，并设置Windows定时任务，保障运行的环境。",
+               "dataIndex": 5
+          },
+          {
+               "project_time": "2023.3 - 至今",
+               "project_name": "其他项目",
+               "project_role": "核心/参与开发者",
+               "project_desc": "还有其他小项目和其他语言如python、.net 的项目过于杂而多，因此做简要概括。",
+               "project_content": "\n1. AMC煤矿系统：微信公众号报警推送维护。\n2. 数据对接类相关：涉及到 sqlite、netty、modubs、sftp等技术。\n3. S8000 初代系统、flex老系统、cms新版本系统的维护和迭代。\n4. CSP系统：企业微信小应用，使用 django 框架进行迭代开发。\n5. 公司官网：进行迭代和维护，使用的.net语言。"
           }
      ],
      "workList": [
           {
-               "work_name": "blog",
-               "work_desc": "自己长期维护，用于记录自己的学习笔记和遇到的问题",
+               "work_name": "个人博客系统",
+               "work_desc": "自己长期维护，用于记录自己的学习笔记和遇到的问题。",
                "visit_link": "https://coder-xuyong.netlify.app/",
                "dataIndex": 0
           }
@@ -134,5 +167,15 @@
      "theme": {
           "color": "#2f5785",
           "tagColor": "#8bc34a"
+     },
+     "null": {
+          "name": "徐勇",
+          "email": "1299461580@qq.com",
+          "mobile": "15328349431",
+          "github": "",
+          "zhihu": "",
+          "workExpYear": "3年",
+          "workPlace": "12",
+          "positionTitle": "Java开发工程师"
      }
 }
