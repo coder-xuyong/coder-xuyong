@@ -103,7 +103,7 @@
                "project_role": "后端负责人",
                "project_time": "2023.04 - 至今",
                "project_desc": "软件系统接入检测风力发电机的雷电流检测和叶片所承受的应力大小。提高对风机的故障检测和预判，提前维修。降低安全隐患和成本，让维护更加高效。",
-               "project_content": "独立负责产品从 0 到 1 的开发、产品功能迭代\n项目架构：SpringBoot+Mysql+Redis+Vue\n1. 负责产品开发文档的撰写 \n2. 产品体验精雕细琢的打磨 \n3. 建立稳定性保障机制。",
+               "project_content": "独立负责产品从 0 到 1 的开发、产品功能迭代\n项目架构：SpringBoot+Mysql+Redis+RabbitMQ+Mybatis+Vue\n1. 负责产品开发文档的撰写 \n2. 产品体验精雕细琢的打磨 \n3. 建立稳定性保障机制。",
                "dataIndex": 0
           },
           {
