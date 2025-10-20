@@ -103,7 +103,7 @@
                "project_role": "后端负责人",
                "project_time": "2023.04 - 至今",
                "project_desc": "软件系统接入检测风力发电机的雷电流检测和叶片所承受的应力大小。提高对风机的故障检测和预判，提前维修。降低安全隐患和成本，让维护更加高效。",
-               "project_content": "独立负责产品从 0 到 1 的开发、产品功能迭代\n项目架构：SpringBoot+Mysql+Redis+RabbitMQ+Mybatis+Vue\n1. 负责产品开发文档的撰写 \n2. 产品体验精雕细琢的打磨 \n3. 建立稳定性保障机制。",
+               "project_content": "独立负责产品从 0 到 1 的开发、产品功能迭代\n项目架构：SpringBoot+Mysql+Redis+RabbitMQ+Mybatis+Vue\n1. 负责产品开发文档的撰写和项目研发工作；\n2. 采用modbus-tcp和雷电流设备获取通信，根据协议信息解析数据。同时也根据协议修改配置，给设备下达命令。\n3. 使用netty接收光纤的数据，1min6000个点看做一个波形。\n4. 根据不同的上下限产生高低报。",
                "dataIndex": 0
           },
           {
@@ -147,16 +147,25 @@
           },
           {
                "project_time": "2023.3 - 至今",
-               "project_name": "其他项目",
+               "project_name": "其他项目--中自庆安",
                "project_role": "核心/参与开发者",
                "project_desc": "还有其他小项目和其他语言如python、.net 的项目过于杂而多，因此做简要概括。",
-               "project_content": "\n1. AMC煤矿系统：微信公众号报警推送维护。\n2. 数据对接类相关小项目：涉及到 sqlite、netty、modubs、sftp等技术。\n3. S8000 初代系统、flex老系统、cms新版本系统的维护和迭代。\n4. CSP系统：企业微信小应用，使用 django 框架进行迭代开发。\n5. 公司官网：进行迭代和维护，使用的.net语言。"
+               "project_content": "\n1. AMC煤矿系统：微信公众号报警推送维护。\n2. 数据对接类相关小项目：涉及到 sqlite、netty、modubs、sftp等技术。\n3. S8000 初代系统、flex老系统、cms新版本系统的维护和迭代。\n4. CSP系统：企业微信小应用，使用 django 框架进行迭代开发。\n5. 公司官网：进行迭代和维护，使用的.net语言。",
+               "dataIndex": 6
+          },
+          {
+               "project_time": "2021.07 - 2021.10",
+               "project_name": "押品管理系统--安硕",
+               "project_role": "模块功能开发",
+               "project_desc": "银行为押品安全而开发，主要包括现核押品信息管理、押权管理，押品处置管理、风险缓释分配、压力测试、综合管理等。",
+               "project_content": "\n1. 负责java后端开发，根据业务需求，完成代码编写。\n2. 押品新增的流程化开发。\n3. 完成服务的docker镜像和测试环境的部署。\n4. 编写简单的vue页面，完成数据的显示。\n",
+               "dataIndex": 7
           }
      ],
      "workList": [
           {
                "work_name": "个人博客系统",
-               "work_desc": "自己长期维护，用于记录自己的学习笔记和遇到的问题。",
+               "work_desc": "自己长期维护，用于记录自己的学习笔记和遇到的问题。访问地址：https://coder-xuyong.netlify.app",
                "visit_link": "https://coder-xuyong.netlify.app/",
                "dataIndex": 0
           }
