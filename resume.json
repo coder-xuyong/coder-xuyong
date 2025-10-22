@@ -96,7 +96,7 @@
                "skill_desc": "熟悉HTML、CSS、JS等前端基础技术，可以使用Vue手脚架快速搭建引用并进行开发；"
           },
           {
-               "skill_desc": "了解 ES、Jenkins 等。",
+               "skill_desc": "了解 ES、Jenkins、JavaFx等。",
                "dataIndex": 9
           }
      ],
