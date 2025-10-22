@@ -58,7 +58,7 @@
      ],
      "skillList": [
           {
-               "skill_desc": "熟练掌握 Java 核心基础知识、JUC 的使用、OOM 思想，熟悉 ThreadLocal 的原理；",
+               "skill_desc": "熟练掌握 Java 语言基础及其特性，集合、反射，JUC（线程池、CompletableFuture、CAS、AQS、ThreadLocal ）等；",
                "dataIndex": 0
           },
           {
@@ -66,31 +66,38 @@
                "dataIndex": 1
           },
           {
-               "skill_desc": "熟练使用 MySql，对其索引、事务、锁、MVCC 有深入理解，有丰富的表设计经验和 sql 语句优化经验；",
+               "skill_desc": "熟练使用 MySql，对其索引、事务、锁、MVCC 、日志等知识，具备一定的库表设计及排查并解决慢SQL的能力；",
                "dataIndex": 2
-          },
-          {
-               "skill_desc": "熟练使用 Redis，对其原理有自我认知，熟知使用的场景；",
-               "dataIndex": 3
           },
           {
                "skill_desc": "熟练使用 Spring 家族、Mybatis 框架，可以使用 SpringBoot 独立开发，对 Spring 核心源码有自我认知；",
                "dataIndex": 4
           },
           {
+               "skill_desc": "熟练 Redis 的基本使用，并了解 核心机制 原理，如RDB、AOF、常见的数据结构等。",
+               "dataIndex": 3
+          },
+          {
                "skill_desc": "熟知 RabbitMq 的使用场景以及需要注意的问题，例如消息丢失、重复消费、持久化等；",
                "dataIndex": 5
           },
           {
+               "skill_desc": "熟悉常见的linux命令、有排查并解决线上问题的经验，了解docker的使用",
+               "dataIndex": 10
+          },
+          {
                "skill_desc": "熟知常用的设计模式，例如单例、模板、策略、工厂、适配器等均有线上使用经验；"
+          },
+          {
+               "skill_desc": "熟练使用 OkHttp、HuTool 等第三方工具植入项目；",
+               "dataIndex": 8
           },
           {
                "skill_desc": "熟练使用 Git、SVN 版本控制工具；",
                "dataIndex": 7
           },
           {
-               "skill_desc": "熟练使用 OkHttp、HuTool 等第三方工具植入项目；",
-               "dataIndex": 8
+               "skill_desc": "熟悉HTML、CSS、JS等前端基础技术，可以使用Vue手脚架快速搭建引用并进行开发；"
           },
           {
                "skill_desc": "了解 ES、dockers、vue、Jenkins、linux 等。",
