@@ -78,10 +78,6 @@
                "dataIndex": 3
           },
           {
-               "skill_desc": "熟知 RabbitMq 的使用场景以及需要注意的问题，例如消息丢失、重复消费、持久化等；",
-               "dataIndex": 5
-          },
-          {
                "skill_desc": "熟悉常见的linux命令、有排查并解决线上问题的经验，了解docker的使用",
                "dataIndex": 10
           },
@@ -150,7 +146,7 @@
                "project_role": "核心/参与开发者",
                "project_desc": "还有其他小项目和其他语言如python、.net 的项目过于杂而多，因此做简要概括。",
                "project_content": "\n1. AMC煤矿系统：微信公众号报警推送维护。\n2. 数据对接类相关小项目：涉及到 sqlite、netty、modubs、sftp等技术。\n3. S8000 初代系统、flex老系统、cms(声纹检测、螺栓反旋等)新版本系统的维护和迭代。\n4. CSP系统：企业微信小应用，使用 django 框架进行迭代开发。\n5. 公司官网：进行迭代和维护，使用的.net语言。",
-               "dataIndex": 6
+               "dataIndex": 5
           },
           {
                "project_time": "2021.07 - 2021.10",
