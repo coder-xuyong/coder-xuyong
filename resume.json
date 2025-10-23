@@ -74,32 +74,36 @@
                "dataIndex": 3
           },
           {
-               "skill_desc": "熟练 Redis 的基本使用，并了解 核心机制 原理，如RDB、AOF、常见的数据结构等。",
+               "skill_desc": "熟练使用 Netty，熟悉其线程模型、事件驱动机制与网络通信流程，具备基于 Netty 构建高并发网络应用及排查性能问题的能力；",
                "dataIndex": 4
           },
           {
-               "skill_desc": "熟悉常见的linux命令、有排查并解决线上问题的经验，了解docker的使用",
+               "skill_desc": "熟练 Redis 的基本使用，并了解 核心机制 原理，如RDB、AOF、常见的数据结构等。",
                "dataIndex": 5
           },
           {
-               "skill_desc": "熟知常用的设计模式，例如单例、模板、策略、工厂、适配器等均有线上使用经验；",
+               "skill_desc": "熟悉常见的linux命令、有排查并解决线上问题的经验，了解docker的使用",
                "dataIndex": 6
           },
           {
-               "skill_desc": "熟练使用 OkHttp、HuTool 等第三方工具植入项目；",
+               "skill_desc": "熟知常用的设计模式，例如单例、模板、策略、工厂、适配器等均有线上使用经验；",
                "dataIndex": 7
           },
           {
-               "skill_desc": "熟练使用 Git、SVN 版本控制工具；",
+               "skill_desc": "熟练使用 OkHttp、HuTool 等第三方工具植入项目；",
                "dataIndex": 8
           },
           {
-               "skill_desc": "熟悉HTML、CSS、JS等前端基础技术，可以使用Vue手脚架快速搭建引用并进行开发；",
+               "skill_desc": "熟练使用 Git、SVN 版本控制工具；",
                "dataIndex": 9
           },
           {
-               "skill_desc": "了解 ES、Jenkins、JavaFx等。",
+               "skill_desc": "熟悉HTML、CSS、JS等前端基础技术，可以使用Vue手脚架快速搭建引用并进行开发；",
                "dataIndex": 10
+          },
+          {
+               "skill_desc": "了解 ES、Jenkins、JavaFx等。",
+               "dataIndex": 11
           }
      ],
      "projectList": [
