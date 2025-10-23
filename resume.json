@@ -58,7 +58,7 @@
      ],
      "skillList": [
           {
-               "skill_desc": "熟练掌握 Java 语言基础及其特性，集合、反射，JUC(线程池、CompletableFuture、CAS、AQS、ThreadLocal )等并发底层机制；",
+               "skill_desc": "熟练掌握 Java 语言基础及其特性，集合、反射，JUC(synchronized、volatile、CAS、AQS、ThreadLocal )等并发底层机制；",
                "dataIndex": 0
           },
           {
