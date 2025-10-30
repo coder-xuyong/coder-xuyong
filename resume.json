@@ -158,9 +158,9 @@
                "project_time": "2021.07 - 2022.10",
                "project_name": "押品管理系统--安硕",
                "project_role": "模块功能开发",
-               "project_desc": "银行为押品安全而开发，主要包括现核押品信息管理、押权管理，押品处置管理、风险缓释分配、压力测试、综合管理等。",
-               "project_content": "\n1. 负责java后端开发，根据业务需求，完成代码编写。\n2. 押品新增的流程化开发。\n3. 完成服务的docker镜像和测试环境的部署。\n4. 编写简单的vue页面，完成数据的显示。\n",
-               "dataIndex": 7
+               "project_desc": "银行为押品安全而开发，主要包括现核押品信息管理、押权管理，押品处置管理、风险缓释分配、压力测试、综合管理等。\n\n",
+               "project_content": "负责模块化的功能开发和接口开发\n项目架构：jdk8+mysql（Oracle）+maven+mybatisplus+springcloud+vue\n1. 负责java后端开发，根据业务需求，完成代码编写。\n2. 押品新增的流程化开发。\n3. 完成服务的docker镜像和测试环境的部署。\n4. 编写简单的vue页面，完成数据的显示。\n",
+               "dataIndex": 6
           }
      ],
      "workList": [
