@@ -135,7 +135,7 @@
                "project_name": "SQL导入导出工具",
                "project_role": "核心开发者",
                "project_desc": "根据公司的业务需求，需要将现场的数据和配置导回公司进行数据分析，同时需要提高这个过程的速度和兼容性。",
-               "project_content": "导出和导入配置数据库的配置数据和历史数据库的历史数据。\n1. 提高mysqldump的导出速度，gzip的压缩效率，优化导出sql的查询速度，提高总体效率。\n2. 兼容不同版本的系统的数据库差异。\n3. 兼容导入导出windows和linux的不同\n4. 使用minio替换mysqldump提升速度。",
+               "project_content": "导出和导入配置数据库的配置数据和历史数据库的历史数据，对其速度进行优化。\n1. 提高mysqldump的导出速度，gzip的压缩效率，优化导出sql的查询速度，提高总体效率。\n2. 兼容不同版本的系统的数据库差异。\n3. 兼容导入导出windows和linux的不同\n4. 使用minio替换mysqldump提升速度。",
                "dataIndex": 4
           },
           {
